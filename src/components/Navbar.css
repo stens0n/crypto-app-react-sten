@@ -12,3 +12,11 @@
 .blue {
     color: #74BBFB
 }
+
+
+@media screen and (max-width: 768px) {
+    .navbar .icon {
+        align-items: center;
+        padding-left: 8.9px;
+    }
+}
