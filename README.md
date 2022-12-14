@@ -2,6 +2,12 @@
 
 This is a React App that pulls information from the Coin Gecko API to give users info on the top 20 ranked cryptos on the blockchain. 
 
+# Coin Gecko
+
+## [Coin Gecko API Documentation][Coin-Gecko]
+
+<br />
+
 # What did I learn?
 
 -I learned about hooks such as useState and useEffect while using Axios to interact with an API. 
@@ -40,3 +46,5 @@ If you aren't satisfied with the build tool and configuration choices, you can e
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+[Coin-Gecko]: https://www.coingecko.com/en/api/documentation
