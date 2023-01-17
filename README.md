@@ -1,5 +1,5 @@
 # Top 20 Crypto Project
-This React app allows users to stay up-to-date on the top 20 ranked cryptocurrencies by using the CoinGecko API to retrieve real-time information. The app features a clean and intuitive interface that allows users to easily view details on individual cryptocurrencies, such as price, market capitalization, and 24-hour volume. The project was developed with a focus on functionality and user experience.
+This React application facilitates the acquisition of real-time information pertaining to the top 20 ranked cryptocurrencies, leveraging the CoinGecko API as the primary data source. The application boasts a sleek and intuitive interface, enabling users to easily access and peruse details on individual cryptocurrencies, such as current pricing, market capitalization, and 24-hour trading volume. The development of this project was approached with a keen emphasis on both functionality and user experience, ensuring that the end-user is provided with an optimal digital experience.
 
 # Coin Gecko
 
