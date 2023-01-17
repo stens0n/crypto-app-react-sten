@@ -9,11 +9,7 @@ This React application facilitates the acquisition of real-time information pert
 
 # What did I learn?
 
--I learned about hooks such as useState and useEffect while using Axios to interact with an API. 
-
--Learned about React Router Dom and how to create dynamic routes in a react application
-
--Learn about useParams, DOMpurify, and navigating common issues when working with API's in React.
+Through this experience, I have developed a deep understanding of various React hooks, such as useState and useEffect, and have effectively employed them in conjunction with the Axios library to facilitate seamless API interactions. Furthermore, I have honed my skills in utilizing React Router Dom to construct dynamic routes within a React-based application. Additionally, I have gained expertise in the utilization of useParams, DOMpurify and have acquired a keen understanding of the various challenges that may arise when working with APIs in a React environment and the strategies for addressing them
 
 # In the project directory, you can run:
 
